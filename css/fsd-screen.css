@@ -50,6 +50,21 @@ header.main-header {
 /**/
 /* Main Content */
 section.main-content {
-  padding: 10px; }
+  padding: 10px; margin-bottom: 10px; }
 
 /**/
+
+footer {
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background: rgba(255,255,255,.7);
+  color: #555;
+  font-size: 4vw;
+}
+footer a {
+  color: #444;
+}
