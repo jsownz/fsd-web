@@ -1,0 +1,55 @@
+/* Elements */
+html {
+  height: 100%;
+  width: 100%; }
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  background: url("/images/background/fabric_of_squares_gray.png"); }
+
+a {
+  text-decoration: none; }
+
+/**/
+/* Utility */
+b {
+  font-weight: 700; }
+
+.light {
+  font-weight: 300; }
+
+.fr {
+  float: right; }
+
+.fl {
+  float: left; }
+
+.btcf:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+/**/
+/* Colors */
+/**/
+/* Main Header */
+header.main-header {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white; }
+  header.main-header nav a {
+    color: #65ccfe; }
+    header.main-header nav a.selected {
+      color: white;
+      cursor: text; }
+
+/**/
+/* Main Content */
+section.main-content {
+  padding: 10px; }
+
+/**/
