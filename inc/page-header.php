@@ -21,9 +21,5 @@
 	<body>
 		<header class="main-header light btcf">
 			<span class="fl">frozen solid designs</span>
-			<!-- <nav class="fr navigation">
-				<a href="/" class="<?php if ( $local_pageCode == "main" ) { echo "selected"; } ?>">Home</a> <b>.</b> 
-				<a href="/contact/" class="<?php if ( $local_pageCode == "contact" ) { echo "selected"; } ?>">Contact</a>
-			</nav> -->
 		</header>
 		<section class="main-content">
