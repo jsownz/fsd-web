@@ -51,7 +51,9 @@ header.main-header {
 /* Main Content */
 section.main-content {
   padding: 10px; margin-bottom: 16px; }
-
+section.main-content a {
+  color: #65ccfe;
+}
 /**/
 
 footer {
