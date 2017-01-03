@@ -40,22 +40,23 @@ b {
 header.main-header {
   padding: 10px;
   background: rgba(0, 0, 0, 0.7);
-  color: white; }
+  color: #FFFFFF; }
   header.main-header nav a {
     color: #65ccfe; }
     header.main-header nav a.selected {
-      color: white;
+      color: #FFFFFF;
       cursor: text; }
 
 /**/
 /* Main Content */
 section.main-content {
-  padding: 10px; margin-bottom: 16px; }
-section.main-content a {
-  color: #65ccfe;
-}
-/**/
+  padding: 10px;
+  margin-bottom: 16px; }
+  section.main-content a {
+    color: #65ccfe; }
 
+/**/
+/* Footer */
 footer {
   box-sizing: border-box;
   position: fixed;
@@ -63,10 +64,12 @@ footer {
   left: 0;
   width: 100%;
   padding: 16px;
-  background: rgba(255,255,255,.5);
-  color: rgba(0,0,0,.6);
-  font-size: .9em;
-}
-footer a {
-  color: rgba(0,0,0,.8);
-}
+  background: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.6);
+  font-size: .9em; }
+  footer a {
+    color: rgba(0, 0, 0, 0.8); }
+
+/**/
+
+/*# sourceMappingURL=fsd-screen.css.map */

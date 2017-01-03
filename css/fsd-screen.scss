@@ -60,5 +60,26 @@ header.main-header {
 /* Main Content */
 section.main-content {
 	padding: 10px;
+	margin-bottom: 16px;
+	a {
+		color: #65ccfe;
+	}
+}
+/**/
+
+/* Footer */
+footer {
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 16px;
+  background: rgba(255,255,255,.5);
+  color: rgba(0,0,0,.6);
+  font-size: .9em;
+	a {
+		color: rgba(0,0,0,.8);
+	}
 }
 /**/
