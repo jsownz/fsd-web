@@ -2,7 +2,7 @@
 
 		<footer>
 			<div>Some of my work...</div>
-			<a href="http://oaksofhope.com" target="_blank">Oaks of Hope</a> | <a href="http://venegasdairy.com" target="_blank">Venegas Dairy</a> | <a href="http://fhl.me" target="_blank">Faith, Hope and Love Assisted Living</a> | <a href="/buttons">Easy CSS Buttons</a> | Fastpass Tracker <a href="https://play.google.com/store/apps/details?id=com.frozensoliddesigns.fpt&hl=en" target="_blank">(Android)</a> <a href="https://itunes.apple.com/us/app/fastpass-tracker/id1190206587?ls=1" target="_blank">(iPhone) 
+			<a href="http://oaksofhope.com" target="_blank">Oaks of Hope</a> | <a href="http://venegasfarms.com" target="_blank">Venegas Family Farms</a> | <a href="http://fhl.me" target="_blank">Faith, Hope and Love Assisted Living</a> | <a href="http://westcoastfleet.com" target="_blank">West Coast Fleet Services</a> | <a href="/buttons">Easy CSS Buttons</a>
 			<br /><br />
 			<div>
 				<a href="mailto:jason@frozensoliddesigns.com">jason@frozensoliddesigns.com</a><br />
