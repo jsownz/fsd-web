@@ -6,7 +6,6 @@
 	include_once($_SERVER['DOCUMENT_ROOT']."/inc/page-header.php");
 ?>
 
-Specializing in front-end development. Currently working on <a href="https://livecube.co" target="_blank">Livecube</a>. Some bodies of work in the footer.
 
 <?php
 	include_once($_SERVER['DOCUMENT_ROOT']."/inc/page-footer.php");
